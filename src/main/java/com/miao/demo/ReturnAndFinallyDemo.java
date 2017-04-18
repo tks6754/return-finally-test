@@ -11,7 +11,7 @@ public class ReturnAndFinallyDemo {
         //System.out.println(ReturnAndFinallyDemo.test11());
         //System.out.println(ReturnAndFinallyDemo.test12());
         //System.out.println(ReturnAndFinallyDemo.test21());
-        System.out.println(ReturnAndFinallyDemo.test().getName());
+        //System.out.println(ReturnAndFinallyDemo.test().getName());
     }
 
 
